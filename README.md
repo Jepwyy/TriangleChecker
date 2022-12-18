@@ -1,2 +1,2 @@
 # TriangleChecker
-<img src="/TriangleChecker/demo.png" alt="Alt text" title="Demo">
+<img src="/Triangle Checker/demo.png" alt="Alt text" title="Demo">

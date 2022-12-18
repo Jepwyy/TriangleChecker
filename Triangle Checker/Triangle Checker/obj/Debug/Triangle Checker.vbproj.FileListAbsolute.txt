@@ -1,0 +1,22 @@
+C:\Users\QCU\AppData\Local\Temporary Projects\Triangle Checker\bin\Debug\Triangle Checker.exe.config
+C:\Users\QCU\AppData\Local\Temporary Projects\Triangle Checker\bin\Debug\Triangle Checker.exe
+C:\Users\QCU\AppData\Local\Temporary Projects\Triangle Checker\bin\Debug\Triangle Checker.pdb
+C:\Users\QCU\AppData\Local\Temporary Projects\Triangle Checker\bin\Debug\Triangle Checker.xml
+C:\Users\QCU\AppData\Local\Temporary Projects\Triangle Checker\obj\Debug\Triangle_Checker.Form1.resources
+C:\Users\QCU\AppData\Local\Temporary Projects\Triangle Checker\obj\Debug\Triangle_Checker.Resources.resources
+C:\Users\QCU\AppData\Local\Temporary Projects\Triangle Checker\obj\Debug\Triangle Checker.vbproj.GenerateResource.Cache
+C:\Users\QCU\AppData\Local\Temporary Projects\Triangle Checker\obj\Debug\Triangle Checker.exe
+C:\Users\QCU\AppData\Local\Temporary Projects\Triangle Checker\obj\Debug\Triangle Checker.xml
+C:\Users\QCU\AppData\Local\Temporary Projects\Triangle Checker\obj\Debug\Triangle Checker.pdb
+C:\Users\Jeff\Documents\Subject\PF101\Triangle Checker\Triangle Checker\bin\Debug\Triangle Checker.exe.config
+C:\Users\Jeff\Documents\Subject\PF101\Triangle Checker\Triangle Checker\bin\Debug\Triangle Checker.exe
+C:\Users\Jeff\Documents\Subject\PF101\Triangle Checker\Triangle Checker\bin\Debug\Triangle Checker.pdb
+C:\Users\Jeff\Documents\Subject\PF101\Triangle Checker\Triangle Checker\bin\Debug\Triangle Checker.xml
+C:\Users\Jeff\Documents\Subject\PF101\Triangle Checker\Triangle Checker\obj\Debug\Triangle Checker.vbproj.AssemblyReference.cache
+C:\Users\Jeff\Documents\Subject\PF101\Triangle Checker\Triangle Checker\obj\Debug\Triangle_Checker.Form1.resources
+C:\Users\Jeff\Documents\Subject\PF101\Triangle Checker\Triangle Checker\obj\Debug\Triangle_Checker.Resources.resources
+C:\Users\Jeff\Documents\Subject\PF101\Triangle Checker\Triangle Checker\obj\Debug\Triangle Checker.vbproj.GenerateResource.cache
+C:\Users\Jeff\Documents\Subject\PF101\Triangle Checker\Triangle Checker\obj\Debug\Triangle Checker.vbproj.CoreCompileInputs.cache
+C:\Users\Jeff\Documents\Subject\PF101\Triangle Checker\Triangle Checker\obj\Debug\Triangle Checker.exe
+C:\Users\Jeff\Documents\Subject\PF101\Triangle Checker\Triangle Checker\obj\Debug\Triangle Checker.xml
+C:\Users\Jeff\Documents\Subject\PF101\Triangle Checker\Triangle Checker\obj\Debug\Triangle Checker.pdb
